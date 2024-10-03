@@ -1,0 +1,68 @@
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\bin\Debug\sendEmail.exe.config
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\bin\Debug\sendEmail.exe
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\bin\Debug\sendEmail.pdb
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\obj\Debug\sendEmail.csproj.AssemblyReference.cache
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\obj\Debug\SendEmailVBC.Form1.resources
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\obj\Debug\sendEmail.Properties.Resources.resources
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\obj\Debug\sendEmail.csproj.GenerateResource.cache
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\obj\Debug\sendEmail.csproj.CoreCompileInputs.cache
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\obj\Debug\sendEmail.exe
+D:\sendMail\SendEmailVBC-ok\SendEmailVBC\SendEmailVBC\SendEmailVBC\obj\Debug\sendEmail.pdb
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\bin\Debug\sendEmail.exe.config
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\bin\Debug\sendEmail.exe
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\bin\Debug\sendEmail.pdb
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.csproj.AssemblyReference.cache
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\SendEmailVBC.Form1.resources
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.Properties.Resources.resources
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.csproj.GenerateResource.cache
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.csproj.CoreCompileInputs.cache
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.exe
+D:\MyDocs\MyApps\Fpt-PTCD\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.pdb
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\bin\Debug\sendEmail.exe.config
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\bin\Debug\sendEmail.exe
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\bin\Debug\sendEmail.pdb
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.csproj.AssemblyReference.cache
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\SendEmailVBC.Form1.resources
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.Properties.Resources.resources
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.csproj.GenerateResource.cache
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.exe
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\SendEmailVBC\obj\Debug\sendEmail.pdb
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\sendEmail.exe.config
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\sendEmail.exe.manifest
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\sendEmail.application
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\sendEmail.exe
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\sendEmail.pdb
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.csproj.AssemblyReference.cache
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\SendEmailVBC.Form1.resources
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.Properties.Resources.resources
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.csproj.GenerateResource.cache
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.exe.manifest
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.application
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.exe
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.pdb
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\EPPlus.dll
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\bin\Debug\EPPlus.xml
+C:\Users\DELL 5400\Desktop\Kiểm tra lịch bảo vệ\KiemTraLichBaoVe\KiemTraTrungLich\SendEmailVBC\obj\Debug\sendEmail.csproj.Up2Date
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\sendEmail.exe.config
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\sendEmail.exe.manifest
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\sendEmail.application
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\sendEmail.exe
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\sendEmail.pdb
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\EPPlus.dll
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\bin\Debug\EPPlus.xml
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.csproj.AssemblyReference.cache
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\SendEmailVBC.Form1.resources
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.Properties.Resources.resources
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.csproj.GenerateResource.cache
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.exe.manifest
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.application
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.csproj.Up2Date
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.exe
+C:\Users\DELL 5400\Desktop\KiemTraChuaUpLAB\KiemTraChuaUpLAB\SendEmailVBC\obj\Debug\sendEmail.pdb
